@@ -8,6 +8,8 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.Window;
 
+import wu.baselib.BaseActivity;
+
 public class FragmentStackActivity extends BaseActivity implements OnClickListener {
     private View mTabWeixin;
     private View mTabFriend;

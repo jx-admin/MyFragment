@@ -3,6 +3,8 @@ package wu.bottomfragment;
 import android.os.Bundle;
 import android.view.Window;
 
+import wu.baselib.BaseActivity;
+
 public class FragmentActivity extends BaseActivity {
     String TAG = "wjx_" + FragmentActivity.class.getSimpleName();
 

@@ -1,1 +1,2 @@
-include ':app'
+include ':app', ':baselibrary'
+project(":baselibrary").projectDir = new File('D:\\7978\\Code2\\a_as\\baselibrary')
